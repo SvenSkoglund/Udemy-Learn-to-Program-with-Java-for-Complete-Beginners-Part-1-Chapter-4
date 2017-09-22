@@ -1,0 +1,35 @@
+Chapter 4 Review Questions
+
+Fundamentals of Computer Programming Using Java
+Page 74 Rev 4.2.1 © 2014 ITCourseware, LLC
+1. What is the primary purpose of a computer program?
+
+To process data
+
+2. Where does a program keep the information it is processing?
+
+In memory
+
+3. How big is a byte?
+
+8 bits
+
+4. How does a computer represent all information internally?
+
+As Bits
+
+5. What are the three basic data types in computer programming?
+
+Integer, Character and float
+
+6. Explain what constant, or literal, data is.
+
+Data that does not change
+
+7. What is a variable used for?
+
+To store data that changes during runtime
+
+8. Explain and describe the purpose of assignment.
+
+Assignment stores the value of a variable
